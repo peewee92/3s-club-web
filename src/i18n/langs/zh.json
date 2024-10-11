@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "home": "主页",
+    "introduction": "俱乐部介绍",
+    "projects": "加密优质项目",
+    "resources": "资讯与学习资源",
+    "partner": "合伙人计划",
+    "events": "Web3 Events",
+    "wallet": "钱包",
+    "login": "邮箱/电话登录"
+  }
+}

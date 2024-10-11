@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "home": "Home",
+    "introduction": "Club introduction",
+    "projects": "Quality projects",
+    "resources": "Resources",
+    "partner": "Partner Plan",
+    "events": "Web3 Events",
+    "wallet": "wallet",
+    "login": "login"
+  }
+}
